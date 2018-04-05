@@ -7538,6 +7538,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .galleryImage {
-  max-width: 400px;
+  max-width: 45px;
+  max-height: 50px;
   size: 52px;
 }
