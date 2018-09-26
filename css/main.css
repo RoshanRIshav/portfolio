@@ -38,3 +38,14 @@ a:hover {
     color: yellow;
     padding-top: 1px;
 }
+
+.foot {
+    position: sticky;
+    font-size: 10px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.wrapper {
+    margin-bottom: -50px;
+}
