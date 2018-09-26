@@ -23,6 +23,7 @@ a {
 
 a:hover {
     text-decoration: none;
+    color: yellow;
 
 }
 .project {
@@ -32,11 +33,7 @@ a:hover {
     text-align: center;
     color: seashell;
 }
-
-/*.social{*/
-    /*padding-left: 5px;*/
-/*}*/
-
-/*.icon{*/
-    /*padding-bottom: 1px;*/
-/*}*/
+.smile {
+    color: yellow;
+    padding-top: 1px;
+}
